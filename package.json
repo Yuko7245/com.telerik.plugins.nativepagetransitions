@@ -7,6 +7,10 @@
   "author": "Telerik / Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "repo": "https://github.com/Telerik-Verified-Plugins/WKWebView.git",
   "issue": "https://github.com/Telerik-Verified-Plugins/WKWebView/issues",
+  "repository": {	
+    "type": "git",
+    "url": "https://github.com/Yuko7245/com.telerik.plugins.nativepagetransitions.git"
+  },
   "keywords": [
     "Native transitions",
     "Native page transitions",
